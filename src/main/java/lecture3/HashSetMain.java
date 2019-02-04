@@ -17,8 +17,6 @@ public class HashSetMain {
         set.add("ирис");
         set.add("картофель");
 
-
-
         for (String s : set) {
             System.out.println(s);
         }
