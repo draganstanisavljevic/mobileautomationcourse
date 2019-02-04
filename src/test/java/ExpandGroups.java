@@ -15,7 +15,7 @@ import java.util.List;
 public class ExpandGroups {
 
     public static String VIEW_BUTTON_LOCATOR = "//android.widget.TextView[@content-desc='Views']";
-    public static String EXPANDAPLE_LIST_BUTTON_LOCATOR = "//android.widget.TextView[@content-desc='Expandable Lists']";
+    public static String EXPANDAPLE_LIST_BUTTON_LOCATOR = "//android.widget.TextView[@content-desc='Expandable ListsTask1']";
     public static String SIMPLE_ADAPTER_BUTTON_LOCATOR = "//android.widget.TextView[@content-desc='3. Simple Adapter']";
 
 
